@@ -11,42 +11,16 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 import google.generativeai as genai
 import os
+from dotenv import load_dotenv
 
-nltk.download('punkt_tab',download_dir='./nltk_data')
+load_dotenv()
 
-nltk.download('wordnet',download_dir='./nltk_data')
 
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 
 
-
-def preprocess_text(text):
-    """
-    Preprocesses a single text string.
-
-    Args:
-        text: The input text string.
-
-    Returns:
-        The preprocessed text string.
-    """
-    # 1. Lowercase the text
-    text = text.lower()
-
-    # 2. Remove punctuation and special characters
-    text = re.sub(r"[^a-zA-Z0-9\s]", "", text)
-
-    # 3. Tokenization
-    tokens = nltk.word_tokenize(text)
-
-    # 4. Lemmatization (optional, you can use stemming instead)
-    lemmatizer = WordNetLemmatizer()
-    tokens = [lemmatizer.lemmatize(token) for token in tokens]
-
-    # Join the tokens back into a string
-    return " ".join(tokens)
 
 TXT_FILE_PATH = "data/Aurora'25.txt"
 
@@ -82,7 +56,7 @@ def root():
 def query(request: QueryRequest):
     question = request.question
     try:
-        question = preprocess_text(question)
+        question = question
 
         prompt = template.format(context=documents[0].page_content, question=question)
         
