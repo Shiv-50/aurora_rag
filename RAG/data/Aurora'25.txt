@@ -52,9 +52,9 @@ Explore Generative Design to produce lightweight, efficient designs.
 Evaluate outputs and finalize your optimized drone frame for prototyping.
 
 
-Workshop Title: Astravaganza
+Workshop Title: Startrail
 Date and Time: 
-Day 1: Sunday 26/01/2025, 9:00 PM - 11:30 PM
+Day 1: Sunday 26/01/2025, 2:30 PM - 5:30 PM
 Day 2: Tuesday 28/01/2025, 9:00 PM - 11:30 PM
 Stargazing Workshop (Day 1) and Astrophotography Workshop (Day 2)
 Club: The Astronomy Club, Manipal 
@@ -97,7 +97,7 @@ Basic knowledge of JavaScript is recommended
 
 
 
-Cryptography Workshop (Day 1) & Web Exploitation Workshop (Day 2)
+Title: Hacklinux
 Club: MIST 
 Date and Time:
 Day 1: Monday 27/01/2025, 5:30 PM - 8:30 PM
@@ -149,8 +149,8 @@ Finalize a 2-page interactive prototype in Canva.
 Workshop Title: VR Arcade Basketball: Game Development Workshop  
 Club: VARISE
 Date and Time:
-Day 1: Sunday 26/01/2025, 10:00 AM - 1:00 PM
-Day 2: Monday 27/01/2025, 2:30 PM - 5:30 PM
+Day 1: Sunday 26/01/2025, 2:30 PM - 5:30 PM
+Day 2: Monday 27/01/2025, 5:30 PM - 8:30 PM
 Topics Covered:  
 Introduction to VR game development concepts and platforms  
 Overview of the game environment setup and VR interactions  
@@ -187,6 +187,43 @@ Optional Extension (For Advanced Users):
 Integrating power-ups or challenges (e.g., time limits or increased hoop difficulty)  
 Implementing multiplayer features for competitive or cooperative play
 
+
+Title: CloudQuest
+Club: ISTE, Manipal 
+Date and Time:
+Day 1: Wednesday 29/01/2025, 5:30 PM - 8:30 PM
+Day 2: Thursday 30/01/2025, 5:30 PM - 8:30 PM
+Topics:
+Introduction to cloud platforms
+Using Microsoft Azure as a cloud platform
+Different kinds of services on Azure
+Integrating cloud services for various purposes
+Deploying a simple project, completely on the cloud
+Prerequisites:
+Logged in Microsoft Azure student account (Log in through the learner mail id)
+Preferred Knowledge for Best Experience:
+Basic UNIX commands
+Project:
+Create a Cloud-Powered AI Chatbot: Design, Train, and Deploy a Smart Conversational Assistant with Azure AI Language Service. Harness the power of Azure's cloud platform to transform FAQs into intelligent conversations, integrate with Azure Bot Service, and deploy your chatbot globally on the web—all using Azure's native tools and services!
+
+Title: Crafting the Web: Introduction to Web development 
+Date and Time:
+Day 1: Friday 31/01/2025, 5:30 PM - 8:30 PM
+Day 2: Saturday 01/02/2025, 5:30 PM - 8:30 PM
+
+Topics Covered:
+
+Fundamentals of web development
+Structuring a webpage with HTML
+Styling with CSS to create visually appealing designs
+Introduction to JavaScript for interactivity
+Building a simple website
+
+Prerequisites: Laptop,
+Install a code editor like Visual Studio Code and live server installed on vs code
+
+Project :
+Creating a fully functional blog website using HTML, CSS, and JavaScript.
 
 
 
@@ -260,3 +297,11 @@ He will delve into topics such as:
 Finding, validating, and transforming ideas into impactful products.
 Essential skills needed to build meaningful projects.
 A collaborative activity where attendees will brainstorm, validate ideas in groups, and get live feedback.
+
+
+Prepare yourself for ultimate challenge brought to you by MIST and ISTE AURORA, CAPTURE THE FLAG !
+Date:
+CTF : 29/01/2025 6:00 PM TO 11:59 PM 30/01/2025
+
+Break the boundaries of reality as you dive into thrilling challenges in cryptography, forensics, web exploitation, and more. Hunt for flags while navigating through a mind-bending adventure across space and time. Think you’ve got the skills to solve it all? 
+Join the journey now!
