@@ -1,0 +1,262 @@
+﻿Event Description for Aurora
+Workshop Title: CONVenient
+Date and Time: Day 1: Friday 24/01/2025, 5:30 PM - 8:30PM, Day 2: Sunday 26/01/2025, 10:00 AM - 1:00 PM, Day 3: Monday 27/01/2025, 5:30 PM - 8:30 PM        
+Club: ACM, Manipal 
+Topics:
+Neural Networks
+The Convolution Operation
+Convolutional Neural Networks
+Building an Alphabet Classifier
+Deploying a simple model online
+Prerequisites:
+Intuition behind first order and second order differentiation
+Kaggle account
+Have Flask installed
+Preferred Knowledge for Best Experience:
+Passing knowledge of coding in python
+Basic working of Linear Regression
+Project:
+Bring Characters to Life with AI: Design, Train, and Deploy a Handwritten
+Alphabet Recognizer Using PyTorch and Flask. Learn to transform raw images into readable text with a powerful CNN model, and showcase your creation in a live web app!
+
+
+Workshop Title: Fusion 360 Generative Design Workshop
+Date and Time: 
+Day 1: Friday 24/01/2025, 5:30 PM - 8:30PM
+Club: DronAid 
+Topics Covered:
+Introduction to Fusion 360 interface and essential tools
+Sketching basics and applying constraints for precise designs
+3D modelling techniques: extrude, revolve, loft, and fillet
+Assemblies and motion studies for working mechanisms
+Basics of Generative Design: defining constraints, materials, and load cases
+Comparing and evaluating design outputs based on weight, strength, and manufacturability
+Exporting files for 3D printing or fabrication
+Prerequisites:
+Laptop with Fusion 360 installed (installation link: [Fusion 360 Download]( https://www.autodesk.com/products/fusion-360 ))
+Stable internet connection for cloud-based Generative Design processing
+
+
+Preferred Knowledge for the Best Experience:
+Basic understanding of engineering drawings or CAD tools (optional but helpful)
+Familiarity with 2D/3D geometry concepts
+
+
+
+
+Project (Hands-on Activity):
+Design and optimize a quadcopter drone frame:
+Create a simple drone frame using basic 3D modelling tools.
+Define constraints, material options, and load cases for structural optimization.
+Explore Generative Design to produce lightweight, efficient designs.
+Evaluate outputs and finalize your optimized drone frame for prototyping.
+
+
+Workshop Title: Astravaganza
+Date and Time: 
+Day 1: Sunday 26/01/2025, 9:00 PM - 11:30 PM
+Day 2: Tuesday 28/01/2025, 9:00 PM - 11:30 PM
+Stargazing Workshop (Day 1) and Astrophotography Workshop (Day 2)
+Club: The Astronomy Club, Manipal 
+Topics covered:
+Types of Telescope
+Dobsonian telescope
+stargazing session
+Basics of astrophotography using smartphone
+stacking of images using sequator (windows) and Siril (mac) software.
+Prerequisites:
+1.Laptops to practice stacking ( hands on experience)
+2.Download: Sequator for Windows (Or)
+Siril for Mac.
+
+
+Workshop Title: App Development (Day 2) & Backend Workshop
+(Day 1)
+Date and Time: 
+Day 1: Tuesday 28/01/2025, 5:30 PM - 8:30 PM
+Day 2: Wednesday 29/01/2025, 5:30 PM - 8:30 PM
+Club: Apple Developers Group 
+Topics Covered:
+Introduction to React Native and TypeScript for cross-platform app
+development
+Setting up the development environment and tools
+Building intuitive and responsive user interfaces
+Managing app state efficiently with React hooks
+Backend development with Node.js and Mongoose for data storage
+Creating RESTful APIs using Express for CRUD operations
+Connecting frontend to backend
+Testing and debugging your app
+Highlights:
+Live Project: Build a fully functional Expense Tracker App during the workshop
+Certificate of Completion awarded after successfully building the project
+Notes for everything will be provided
+Prerequisites:NONE
+Prerequisites:
+Laptop with required software installed (setup guide provided upon registration)
+Basic knowledge of JavaScript is recommended
+
+
+
+Cryptography Workshop (Day 1) & Web Exploitation Workshop (Day 2)
+Club: MIST 
+Date and Time:
+Day 1: Monday 27/01/2025, 5:30 PM - 8:30 PM
+Day 2: Tuesday 28/01/2025, 5:30 PM - 8:30 PM
+Topics covered:
+Basics of Cryptography
+Types (symmetric and asymmetric)
+Ciphers (Caesar, Vigenère, One-Time Pad)
+AES, RSA, Cryptographic attacks (brute force, frequency analysis, replay), and Hashing
+Inspect element, Burpsuite, SQL, WASM, cookies.
+Prerequisites:Download Burp Suite. Participants should have an active picoCTF login account prior to attending the workshop.
+Project: Guided competition CTF 
+
+Workshop Title : PCB Designing
+Club: DronAid
+Date and Time:
+Day 1: Sunday 25/01/2025, 2:30 PM - 5:30 PM
+Topics Covered : Basics of PCB Design and introduction to KiCad
+Project : Design a Buck converter specific for optimal drone conditions. Prerequisites : Installation of KiCad 8.0
+Preferred Knowledge : Basic electronic components and their functions
+Title: VisionCraft: Mastering Computer Vision
+Club: ACM-W, Manipal Topics covered:
+OpenCV Basics
+CNN basics, as required for the project
+building a rock paper scissors OpenCV project
+Prerequisites: Google Colab/Jupyter installed
+Preferred Knowledge for the Best Experience:
+Python
+Basic ML knowledge
+Knowledge about deep learning would be preferred but we will also brush up on those topics required for the project
+
+
+Project(if applicable):
+Rock paper scissors using OpenCV and CNNs
+Workshop Title: Intro to UI/UX: Designing Wireframes and Prototypes
+Club: LeanIn, Manipal 
+Date and Time:
+Day 1: Friday 24/01/2025, 5:30 PM - 8:30 PM
+Day 2: Sunday 26/01/2025, 10:00 AM - 1:00 PM
+Topics covered:
+Understand the basics of UI/UX design and why it matters.
+Learn how to create simple wireframes using Canva.
+Building an interactive experience using Canva's Presentation Mode or clickable PDFs.
+Prerequisites: NONE
+Preferred Knowledge for the Best Experience: Basic Idea of Canva and it's tools
+Project(if applicable):
+Finalize a 2-page interactive prototype in Canva.
+
+Workshop Title: VR Arcade Basketball: Game Development Workshop  
+Club: VARISE
+Date and Time:
+Day 1: Sunday 26/01/2025, 10:00 AM - 1:00 PM
+Day 2: Monday 27/01/2025, 2:30 PM - 5:30 PM
+Topics Covered:  
+Introduction to VR game development concepts and platforms  
+Overview of the game environment setup and VR interactions  
+Ball dispenser mechanics: simulating ball release and player interaction  
+Arcade-style scoring system and player feedback  
+Designing and implementing the start menu, score display, and user interface
+Handling player inputs for shooting mechanics and ball trajectory  
+Game physics for realistic ball movement and hoop collision  
+Testing and debugging the VR environment for smooth gameplay  
+
+
+Prerequisites:  
+Laptop or PC with Unity and visual studio installed:
+Unity version: 2022.3.55f1
+Installation guide:
+https://www.youtube.com/watch?v=Kh_FD0Ypdhg
+
+
+Preferred Knowledge for the Best Experience:  
+Basic understanding of any programming language
+
+
+Project (Hands-on Activity): 
+Create and develop a simple VR basketball arcade game:  
+Implement a ball dispenser system that releases balls to players at random intervals.  
+Design shooting mechanics that allow the player to aim and throw the basketball towards the hoop.  
+Develop a basic arcade scoring system that updates in real-time based on successful shots.  
+Set up a user-friendly start menu where players can begin the game and view the score.  
+Integrate the 3D models of the ball, hoop, and dispenser into the game environment.  
+Test and refine the gameplay mechanics to ensure smooth interaction and enjoyable user experience.  
+
+
+Optional Extension (For Advanced Users):
+Integrating power-ups or challenges (e.g., time limits or increased hoop difficulty)  
+Implementing multiplayer features for competitive or cooperative play
+
+
+
+
+Tech Divide - A Tech Debate Competition
+Date and Time:
+Day 1: 
+5:30 PM - 8:30 PM
+Club:
+Blank_101
+
+
+This event will have all the participants working in a group, the number of groups being an even number. Two teams will get selected and will be given a debate topic assigned to them, be it proprietary vs open source, against vs for AI deepfakes, etc. and each team must present their sides of the argument in front of the classroom and the other teams will vote for which team had the better points, presentation, argument and whichever team gets the most points (The mediator will be the tie breaker in case there is one) gets to remain while the other team will get eliminated. After each team has participated at least once the number of people remaining will be reduced and teams will get shuffled and this continues until only two teams remain, then they have one final debate to end all debates. After which the team voted by whoever remains plus the mediator will get crowned the ultimate king of debates.
+
+
+
+
+HACKATHON DETAILS
+
+
+Error 456: Out of Lives
+General Guidelines
+The hackathon is open to all MIT students. Teams can consist of 2 to 5 members.
+Teams have to be formed before the event, and registered with the AURORA website.
+Respect your fellow participants, organizers, and judges. Any form of cheating, plagiarism, or unsportsmanlike behavior will result in disqualification.
+Participants must bring their own laptops and devices. Internet access will be provided, but participants should ensure they have backup data plans if required.
+You are free to use any coding platform or IDE.
+Judging Criteria:
+How innovative and original is the solution?
+Is the project practical and scalable?
+Does the solution solve a real-world problem?
+How challenging was the implementation?
+How well is the project presented during the final pitch?
+The hackathon lasts for 10 hours. You must ensure that your solution is functional and ready for presentation by the end of the event.
+Judging Process
+At the end of the hackathon, all teams will present their projects to the panel of judges.
+Each team has 3 minutes to present their solution, followed by a 5-minute Q&A session with the judges.
+Judges will evaluate each project based on the outlined criteria.
+Mini-games will be played during breaks and will impact your overall score. However greater preference will be given to the app implemented.
+Mini-game rules will be made known to the participants on and at the time the mini-game is to be commenced.
+Light snacks will be available during breaks. Teams should bring their own meals if needed. Adequate time for lunch will be provided.
+Prizes and Recognition
+1st Place: ₹8,000
+2nd Place: ₹4,000
+3rd Place: ₹3,000
+Certificates of participation for all participants.
+
+Date : 02/02/2025
+The hackathon lasts for 10 hours, from 8:00 AM to 6:00 PM. The day will include coding time, mini-games, and a final presentation session.
+
+Teams can consist of 2 to 5 participants.
+
+To add an element of excitement, we are adding an additional minigame concept. The exact rules of the mini-games will be provided as and when the games occur. These minigames in totality will take up only 15 minutes of your time. Winning these minigames can slightly boost your score, however preference will always be given to your app.
+
+Yes, each team must bring their own laptops and devices. The venue will provide internet access.
+
+Registration will commence on the AURORA website.
+
+
+AURORA'25  Tech Talk – Product Development & Innovation!  Join us for an inspiring session with Arpan Garg !
+
+
+Arpan, Co-founder & CTO of Exa Protocol , a two-time SIH winner and ex-Product Head of Coding Ninjas is coming to share his journey of building Commudle ( Google for Startups Accelerator program )!
+
+
+Date: 25th January 2025
+Time: 5:30 PM
+Venue: Library Auditorium
+
+
+He will delve into topics such as:
+Finding, validating, and transforming ideas into impactful products.
+Essential skills needed to build meaningful projects.
+A collaborative activity where attendees will brainstorm, validate ideas in groups, and get live feedback.
