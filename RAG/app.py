@@ -12,6 +12,9 @@ from nltk.stem import WordNetLemmatizer
 import google.generativeai as genai
 import os
 
+nltk.download('punkt_tab',download_dir='./nltk_data')
+
+nltk.download('wordnet',download_dir='./nltk_data')
 
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 model = genai.GenerativeModel("gemini-1.5-flash")
