@@ -22,7 +22,7 @@ model = genai.GenerativeModel("gemini-1.5-flash")
 
 
 
-TXT_FILE_PATH = "data/Aurora'25.txt"
+TXT_FILE_PATH = os.path.join(os.path.dirname(__file__), "data", "Aurora'25.txt")
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
